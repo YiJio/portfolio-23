@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 66.52">
+  <circle cx="31.5" cy="33.26" r="2.63" style="fill: #61dafb;"/>
+  <g>
+    <ellipse cx="31.5" cy="33.26" rx="14.09" ry="5.38" style="fill: none; stroke: #61dafb;"/>
+    <ellipse cx="31.5" cy="33.26" rx="5.38" ry="14.09" transform="translate(-12.41 20.21) rotate(-30)" style="fill: none; stroke: #61dafb; stroke-miterlimit: 4; stroke-width: 1px;"/>
+    <ellipse cx="31.5" cy="33.26" rx="14.09" ry="5.38" transform="translate(-13.06 43.91) rotate(-60)" style="fill: none; stroke: #61dafb; stroke-miterlimit: 4; stroke-width: 1px;"/>
+  </g>
+</svg>

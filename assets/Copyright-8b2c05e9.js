@@ -1,0 +1,1 @@
+import{_ as s}from"./_plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,b as e,e as c}from"./index-c7d13767.js";const r={},a={class:"copyright"},n=c("br",null,null,-1);function _(i,d){return t(),o("div",a,[e(" COPYRIGHT © 2023 YI JIANG. ALL RIGHTS RESERVED."),n,e(" This website was created using Vue. ")])}const f=s(r,[["render",_]]);export{f as C};
