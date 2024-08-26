@@ -4,8 +4,9 @@ import path from 'path'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  base: '/portfolio-23/',
   plugins: [vue()],
-  resikve: {
+  resolve: {
     alias: {
       '@': path.resolve(__dirname, './src')
     }
