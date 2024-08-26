@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"position": "Graphic Designer",
+		"company": "Sing Sing Sign Inc",
+		"date": ["May 2022 - April 2023"],
+		"description": [
+			"Designed visual content for customers and their events",
+			"Used Adobe Illustrator and Photoshop to create proofs and final designs",
+			"Redesigned cards, advertisements, menus from low-quality resources given by customers",
+			"Helped customers understand what exactly they are looking for and need to print"
+		]
+	},
+	{
+		"id": 2,
+		"position": "Real Estate Clerk Assistant",
+		"company": "Realty ONE Group",
+		"date": ["Jan 2021 - May 2021", "Feb 2022 - May 2022"],
+		"description": [
+			"Organized forms and filed records to ensure consistency and accurate tracking, reducing the time to find documents quickly",
+			"Utilized Excel spreadsheet reports to organize and categorize data, increasing streamline accuracy of calculations",
+			"Matched bank transactions and events to Quicken by following accounting principles, pinpointing errors, and deducing possibilities of money loss"
+		]
+	},	
+	{
+		"id": 3,
+		"position": "Mathematics Grader/TA",
+		"company": "University of Nevada, Reno",
+		"date": ["Sep 2021 - Dec 2021"],
+		"description": [
+			"Gave feedback on the breakdown of points relating to the specific student, increasing their incentive to show work on their next quizzes",
+			"Achieved an increase in student grades with an average of 8% for 4 classes",
+			"Worked with professors and attended one-on-one lessons with students, improving their understanding of the quiz material"
+		]
+	},	
+	{
+		"id": 4,
+		"position": "Undergraduate BioSoRo Researcher",
+		"company": "University of Nevada, Reno",
+		"date": ["Jun 2021 - Aug 2021"],
+		"description": [
+			"Conducted daily research for 8 hours a week and bi-weekly presentations to manage progress of experimentation",
+			"Worked closely with mentors to strengthen understanding of topic and use proper research resources available, expanding the architecture of electrical circuit wiring for project",
+			"Connected sensors and data communication with code for 16 inputs from joints of a single hand, modeling from 9,600 samples to find a linear fit for gesture detection",
+			"Developed a prototype utilizing multiple software programs and implemented a representative 3D interface, increasing the recognition of gesture input"
+		]
+	},
+	{
+		"id": 5,
+		"position": "Mathematics Teaching Assistant",
+		"company": "University of Nevada, Reno",
+		"date": ["Nov 2020 - Dec 2020"],
+		"description": [
+			"Used TexWorks and TexStudio to format PDF documents, evaluating conceptual detail and consistency of various reports reflective to class lectures",
+			"Created weekly reports and attended Zoom meetings with professor to manage suggestions and discuss student score performance"
+		]
+	}
+]

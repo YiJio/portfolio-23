@@ -1,0 +1,335 @@
+[
+	{
+		"id": "1",
+		"type": "Bug Trackers",
+		"cat": "Tool",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "1-1",
+				"name": "Main",
+				"status": "In-Progress",
+				"timeframe": "2023 - present",
+				"type": "",
+				"tlf": ["", ""],
+				"icon": "",
+				"desc": "Lorum ipsum text",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}, {
+		"id": "2",
+		"type": "Discord Bots",
+		"cat": "Tool",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "2-1",
+				"name": "CodeTheKey",
+				"status": "In-Progress",
+				"timeframe": "2023 - present",
+				"type": "Personal",
+				"tlf": ["Node JS", ""],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}, {
+				"id": "2-2",
+				"name": "For Ying?",
+				"status": "In-Progress",
+				"timeframe": "2023 - present",
+				"type": "Client",
+				"tlf": ["Node JS", ""],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}, {
+		"id": "3",
+		"type": "E-Commerce Websites",
+		"cat": "Website",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "3-1",
+				"name": "4aprint",
+				"status": "In-Progress",
+				"timeframe": "2022 - present",
+				"type": "Client",
+				"tlf": ["Node JS", "React JS", "CRA", "Firebase"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}, {
+				"id": "3-2",
+				"name": "LotC",
+				"status": "In-Progress",
+				"timeframe": "2017 - present",
+				"type": "Personal",
+				"tlf": ["Vanilla JS", "PHP", "MySQL"],
+				"icon": "",
+				"desc": "Inspired by Alibaba Taobao and various e-commerce websites.",
+				"explain": [
+					{
+						"image": "",
+						"desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris convallis velit a vestibulum mollis. Donec congue ligula magna."
+					}, {
+						"image": "",
+						"desc": "Quisque dui felis, pretium suscipit mauris ut, consectetur placerat nisi. Nam lacinia mi augue, in euismod dui vulputate ac. Etiam eget rutrum augue."
+					}, {
+						"image": "",
+						"desc": "Mauris hendrerit suscipit finibus. Nam fringilla accumsan lorem eget tempus. In non justo aliquam, fringilla sem at, pretium velit. Nam tincidunt diam odio, vitae iaculis urna elementum eget."
+					}, {
+						"image": "",
+						"desc": "Sed diam diam, dictum at velit in, vulputate mattis enim. Vivamus in mattis velit. Quisque fringilla finibus turpis ut vehicula."
+					}, {
+						"image": "",
+						"desc": "Morbi feugiat lectus id lacus commodo mattis. In accumsan tempor aliquet. Curabitur vel diam ut ipsum sollicitudin vestibulum."
+					}
+				]
+			}
+		]
+	}, {
+		"id": "4",
+		"type": "Content Websites",
+		"cat": "Website",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "4-1",
+				"name": "UnfileIt",				
+				"status": "In-Progress",
+				"timeframe": "2021 - present",
+				"type": "Personal",
+				"tlf": ["Node JS", "React JS", "CRA", "Firebase"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}, {
+		"id": "5",
+		"type": "Emulators",
+		"cat": "Website",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "5-1",
+				"name": "SnapScreen (Web)",
+				"status": "In-Progress",
+				"timeframe": "2022 - present",
+				"type": "Personal",
+				"tlf": ["Node JS", "React JS"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}, {
+				"id": "5-2",
+				"name": "SnapScreen (Mobile)",
+				"status": "In-Progress",
+				"timeframe": "2021 - present",
+				"type": "Personal",
+				"tlf": ["Node JS", "React JS"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}, {
+		"id": "6",
+		"type": "Report Websites",
+		"cat": "Website",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "6-1",
+				"name": "ePCR",
+				"status": "Complete",
+				"timeframe": "2020 - 2021",
+				"type": "Client",
+				"tlf": ["Node JS", "React JS", "CRA", "MySQL", "Heroku"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}, {
+		"id": "7",
+		"type": "3D Games",
+		"cat": "Game",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "7-1",
+				"name": "Tree of Season",
+				"status": "In-Progress",
+				"timeframe": "2019 - present",
+				"type": "Personal",
+				"tlf": ["Unreal Engine 4/5"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}, {
+		"id": "8",
+		"type": "2D Games",
+		"cat": "Game",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "8-1",
+				"name": "US History",
+				"status": "In-Progress",
+				"timeframe": "2021 - present",
+				"type": "Personal",
+				"tlf": ["Unity Engine"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}, {
+		"id": "9",
+		"type": "Wix Websites",
+		"cat": "Website",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "9-1",
+				"name": "All",
+				"status": "",
+				"timeframe": "2021 - present",
+				"type": "Client",
+				"tlf": ["Wix"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}, {
+		"id": "10",
+		"type": "UI Designs",
+		"cat": "UI",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "10-1",
+				"name": "All",
+				"status": "",
+				"timeframe": "2013 - present",
+				"type": "Personal",
+				"tlf": ["GIMP", "Adobe Photoshop", "Adobe Illustrator"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}, {
+		"id": "11",
+		"type": "Miscellaneous",
+		"cat": "Misc",
+		"icon": "",
+		"banner": "",
+		"desc": "",
+		"children": [
+			{
+				"id": "11-1",
+				"name": "All",
+				"status": "",
+				"timeframe": "2013 - present",
+				"type": "Personal",
+				"tlf": ["GIMP", "Adobe Photoshop", "Adobe Illustrator", "SketchUp"],
+				"icon": "",
+				"desc": "",
+				"explain": [
+					{
+						"image": "",
+						"desc": ""
+					}
+				]
+			}
+		]
+	}
+]
